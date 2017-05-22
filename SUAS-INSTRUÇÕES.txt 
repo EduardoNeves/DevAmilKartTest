@@ -1,0 +1,6 @@
+Para Rodar o Sistema, execute o main na 
+classe Start passando o endereço do arquivo como parametro.
+Ou se preferrir execute o jar passando como parametro o endereço.
+
+caso queira pode passar como parametro INPUT_DATA que usara o exemplo 
+informado no GIT.
