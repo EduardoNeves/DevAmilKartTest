@@ -4,3 +4,6 @@ Ou se preferrir execute o jar passando como parametro o endereço.
 
 caso queira pode passar como parametro INPUT_DATA que usara o exemplo 
 informado no GIT.
+
+Infelizmente a parte de Teste Unitario e TDD, nunca fiz algo do tipo, portanto
+achei melhor não fazer, a fazer algo que estivesse errado ou fosse mal interpretado.
